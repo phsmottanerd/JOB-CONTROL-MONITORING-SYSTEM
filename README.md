@@ -14,6 +14,27 @@
 <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-00FF41?style=for-the-badge" alt="Status">
 <img src="https://img.shields.io/badge/VERSION-1.0.0-00FF41?style=for-the-badge" alt="Version">
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00FF41&center=true&vCenter=true&width=950&lines=PAULO+HENRIQUE+SANTANA+MOTTA" alt="Paulo Henrique Santana Motta">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF41&center=true&vCenter=true&width=950&lines=JOB+CONTROL+%26+MONITORING+SYSTEM" alt="JOB CONTROL & MONITORING SYSTEM">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=950&lines=COBOL+%7C+GNUCOBOL+%7C+MAINFRAME+%7C+JOB+CONTROL+%7C+BATCH+PROCESSING" alt="COBOL Mainframe Job Control">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/COBOL-00FF41?style=for-the-badge&logoColor=000000" alt="COBOL">
+<img src="https://img.shields.io/badge/GnuCOBOL-00FF41?style=for-the-badge&logoColor=000000" alt="GnuCOBOL">
+<img src="https://img.shields.io/badge/JOB%20CONTROL-00FF41?style=for-the-badge&logoColor=000000" alt="Job Control">
+<img src="https://img.shields.io/badge/BATCH%20PROCESSING-00FF41?style=for-the-badge&logoColor=000000" alt="Batch Processing">
+<img src="https://img.shields.io/badge/IBM%20Z-00FF41?style=for-the-badge&logoColor=000000" alt="IBM Z">
+<img src="https://img.shields.io/badge/z%2FOS-00FF41?style=for-the-badge&logoColor=000000" alt="z/OS">
+
 </div>
 
 <br>
@@ -26,17 +47,19 @@
 
 <div style="color:#00FF41">
 
-### 🟢 Projeto desenvolvido com foco em
+<h3><span style="color:#00FF41">🟢 Projeto desenvolvido com foco em</span></h3>
 
-* **COBOL e GnuCOBOL**
-* **Processamento Batch**
-* **Controle e execução de JOBs**
-* **Return Codes (RC)**
-* **Histórico de execuções**
-* **Monitoramento**
-* **Arquivos indexados**
-* **Conceitos de Job Control**
-* **Evolução futura para IBM Z / z/OS**
+<ul>
+<li><span style="color:#00FF41"><strong>COBOL e GnuCOBOL</strong></span></li>
+<li><span style="color:#00FF41"><strong>Processamento Batch</strong></span></li>
+<li><span style="color:#00FF41"><strong>Controle e execução de JOBs</strong></span></li>
+<li><span style="color:#00FF41"><strong>Return Codes (RC)</strong></span></li>
+<li><span style="color:#00FF41"><strong>Histórico de execuções</strong></span></li>
+<li><span style="color:#00FF41"><strong>Monitoramento</strong></span></li>
+<li><span style="color:#00FF41"><strong>Arquivos indexados</strong></span></li>
+<li><span style="color:#00FF41"><strong>Conceitos de Job Control</strong></span></li>
+<li><span style="color:#00FF41"><strong>Evolução futura para IBM Z / z/OS</strong></span></li>
+</ul>
 
 </div>
 
@@ -50,15 +73,15 @@
 
 <div style="color:#00FF41">
 
-O <strong>JOB CONTROL & MONITORING SYSTEM</strong> é um projeto desenvolvido em <strong>COBOL</strong>, utilizando inicialmente <strong>GnuCOBOL em ambiente PC</strong>, com o objetivo de construir uma aplicação baseada em conceitos de <strong>controle de JOBs, processamento batch, execução, Return Codes, histórico e monitoramento</strong>.
+<p><span style="color:#00FF41">O <strong>JOB CONTROL & MONITORING SYSTEM</strong> é um projeto desenvolvido em <strong>COBOL</strong>, utilizando inicialmente <strong>GnuCOBOL em ambiente PC</strong>, com o objetivo de construir uma aplicação baseada em conceitos de <strong>controle de JOBs, processamento Batch, execução, Return Codes, histórico e monitoramento</strong>.</span></p>
 
-O projeto foi concebido como um laboratório prático para desenvolver conceitos relacionados ao universo <strong>Mainframe</strong>, criando uma base funcional que posteriormente poderá evoluir para uma implementação mais próxima das práticas utilizadas em ambientes <strong>IBM Z / z/OS</strong>.
+<p><span style="color:#00FF41">O projeto foi concebido como um laboratório prático para desenvolver conceitos relacionados ao universo <strong>Mainframe</strong>, criando uma base funcional que posteriormente poderá evoluir para uma implementação mais próxima das práticas utilizadas em ambientes <strong>IBM Z / z/OS</strong>.</span></p>
 
-A proposta vai além de um simples cadastro de dados.
+<p><span style="color:#00FF41">A proposta vai além de um simples cadastro de dados.</span></p>
 
-O sistema trabalha com o conceito de <strong>JOB</strong>, seu estado de execução, resultado através de <strong>Return Code</strong>, armazenamento do histórico e geração de informações para acompanhamento das execuções.
+<p><span style="color:#00FF41">O sistema trabalha com o conceito de <strong>JOB</strong>, seu estado de execução, resultado através de <strong>Return Code</strong>, armazenamento do histórico e geração de informações para acompanhamento das execuções.</span></p>
 
-<strong>Objetivo:</strong> construir progressivamente uma solução de Job Control e Monitoring utilizando COBOL e conceitos relacionados ao processamento corporativo e Mainframe.
+<p><span style="color:#00FF41"><strong>Objetivo:</strong> construir progressivamente uma solução de Job Control e Monitoring utilizando COBOL e conceitos relacionados ao processamento corporativo e Mainframe.</span></p>
 
 </div>
 
@@ -121,22 +144,26 @@ O sistema trabalha com o conceito de <strong>JOB</strong>, seu estado de execuç
 
 </div>
 
-<div style="color:#00FF41">
-
-| Função                 | Descrição                                    |
-| ---------------------- | -------------------------------------------- |
-| 🆕 **Cadastro de JOB** | Criação de uma definição de JOB              |
-| 🔎 **Consulta de JOB** | Consulta individual através do identificador |
-| ▶️ **Execução**        | Controle da execução do JOB                  |
-| 🧾 **Return Code**     | Registro do resultado da execução            |
-| 📚 **Histórico**       | Armazenamento das execuções realizadas       |
-| 📊 **Relatórios**      | Visualização dos JOBs e seus resultados      |
-| ✏️ **Alteração**       | Atualização das informações do JOB           |
-| 🗑️ **Exclusão**       | Remoção de JOB cadastrado                    |
-| 💾 **Persistência**    | Armazenamento através de arquivos indexados  |
-| 🕒 **Data e Hora**     | Registro temporal das execuções              |
-
-</div>
+<table>
+<thead>
+<tr>
+<th><span style="color:#00FF41">Função</span></th>
+<th><span style="color:#00FF41">Descrição</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><span style="color:#00FF41">🆕 <strong>Cadastro de JOB</strong></span></td><td><span style="color:#00FF41">Criação de uma definição de JOB</span></td></tr>
+<tr><td><span style="color:#00FF41">🔎 <strong>Consulta de JOB</strong></span></td><td><span style="color:#00FF41">Consulta individual através do identificador</span></td></tr>
+<tr><td><span style="color:#00FF41">▶️ <strong>Execução</strong></span></td><td><span style="color:#00FF41">Controle da execução do JOB</span></td></tr>
+<tr><td><span style="color:#00FF41">🧾 <strong>Return Code</strong></span></td><td><span style="color:#00FF41">Registro do resultado da execução</span></td></tr>
+<tr><td><span style="color:#00FF41">📚 <strong>Histórico</strong></span></td><td><span style="color:#00FF41">Armazenamento das execuções realizadas</span></td></tr>
+<tr><td><span style="color:#00FF41">📊 <strong>Relatórios</strong></span></td><td><span style="color:#00FF41">Visualização dos JOBs e seus resultados</span></td></tr>
+<tr><td><span style="color:#00FF41">✏️ <strong>Alteração</strong></span></td><td><span style="color:#00FF41">Atualização das informações do JOB</span></td></tr>
+<tr><td><span style="color:#00FF41">🗑️ <strong>Exclusão</strong></span></td><td><span style="color:#00FF41">Remoção de JOB cadastrado</span></td></tr>
+<tr><td><span style="color:#00FF41">💾 <strong>Persistência</strong></span></td><td><span style="color:#00FF41">Armazenamento através de arquivos indexados</span></td></tr>
+<tr><td><span style="color:#00FF41">🕒 <strong>Data e Hora</strong></span></td><td><span style="color:#00FF41">Registro temporal das execuções</span></td></tr>
+</tbody>
+</table>
 
 ---
 
@@ -148,7 +175,7 @@ O sistema trabalha com o conceito de <strong>JOB</strong>, seu estado de execuç
 
 <div style="color:#00FF41">
 
-A primeira versão utiliza arquivos indexados para persistência dos dados.
+<p><span style="color:#00FF41">A primeira versão utiliza <strong>arquivos indexados</strong> para persistência dos dados.</span></p>
 
 ```text
                        JOBCONTROL.CBL
@@ -164,9 +191,9 @@ A primeira versão utiliza arquivos indexados para persistência dos dados.
           └──────────────┘          └────────────────┘
 ```
 
-### `JOBS.DAT`
+<h3><span style="color:#00FF41">`JOBS.DAT`</span></h3>
 
-Armazena as informações dos JOBs cadastrados.
+<p><span style="color:#00FF41">Armazena as informações dos JOBs cadastrados.</span></p>
 
 ```text
 JOB-ID
@@ -177,9 +204,9 @@ JOB-STATUS
 JOB-RC
 ```
 
-### `HISTORICO.DAT`
+<h3><span style="color:#00FF41">`HISTORICO.DAT`</span></h3>
 
-Armazena as informações das execuções realizadas.
+<p><span style="color:#00FF41">Armazena as informações das execuções realizadas.</span></p>
 
 ```text
 HIST-ID
@@ -233,7 +260,7 @@ HIST-RC
 
 <div style="color:#00FF41">
 
-O <strong>Return Code (RC)</strong> representa o resultado da execução de um JOB.
+<p><span style="color:#00FF41">O <strong>Return Code (RC)</strong> representa o resultado da execução de um JOB.</span></p>
 
 ```text
                  RETURN CODE
@@ -246,11 +273,11 @@ O <strong>Return Code (RC)</strong> representa o resultado da execução de um J
        SUCESSO                    ERRO
 ```
 
-O valor `0000` representa uma execução concluída com sucesso.
+<p><span style="color:#00FF41">O valor <strong>0000</strong> representa uma execução concluída com sucesso.</span></p>
 
-Valores diferentes de `0000` representam uma condição diferente de sucesso, permitindo que o controlador registre e posteriormente interprete o resultado da execução.
+<p><span style="color:#00FF41">Valores diferentes de <strong>0000</strong> representam uma condição diferente de sucesso, permitindo que o controlador registre e posteriormente interprete o resultado da execução.</span></p>
 
-O conceito de Return Code prepara o projeto para conceitos associados ao <strong>processamento Batch e Job Control</strong>.
+<p><span style="color:#00FF41">O conceito de Return Code prepara o projeto para conceitos associados ao <strong>processamento Batch e Job Control</strong>.</span></p>
 
 </div>
 
@@ -338,7 +365,7 @@ JOB-CONTROL-MONITORING-SYSTEM/
     └── architecture/
 ```
 
-Os arquivos `.DAT` são gerados durante a execução da aplicação e representam os dados persistidos pelo sistema.
+<p><span style="color:#00FF41">Os arquivos <strong>.DAT</strong> são gerados durante a execução da aplicação e representam os dados persistidos pelo sistema.</span></p>
 
 </div>
 
@@ -352,13 +379,13 @@ Os arquivos `.DAT` são gerados durante a execução da aplicação e representa
 
 <div style="color:#00FF41">
 
-### Compilação
+<h3><span style="color:#00FF41">Compilação</span></h3>
 
 ```bash
 cobc -x -free JOBCONTROL.CBL -o JOBCONTROL.exe
 ```
 
-### Execução
+<h3><span style="color:#00FF41">Execução</span></h3>
 
 ```bash
 JOBCONTROL.exe
@@ -406,29 +433,31 @@ JOBCONTROL.exe
 
 <div style="color:#00FF41">
 
-O projeto utiliza conceitos importantes da linguagem COBOL:
+<p><span style="color:#00FF41">O projeto utiliza conceitos importantes da linguagem COBOL:</span></p>
 
-* `IDENTIFICATION DIVISION`
-* `ENVIRONMENT DIVISION`
-* `DATA DIVISION`
-* `FILE SECTION`
-* `WORKING-STORAGE SECTION`
-* `PROCEDURE DIVISION`
-* `FILE-CONTROL`
-* `ORGANIZATION IS INDEXED`
-* `ACCESS MODE IS DYNAMIC`
-* `RECORD KEY`
-* `READ`
-* `WRITE`
-* `REWRITE`
-* `DELETE`
-* `START`
-* `READ NEXT RECORD`
-* `PERFORM`
-* `EVALUATE`
-* `IF / ELSE`
-* `FUNCTION CURRENT-DATE`
-* `FILE STATUS`
+<ul>
+<li><span style="color:#00FF41"><code>IDENTIFICATION DIVISION</code></span></li>
+<li><span style="color:#00FF41"><code>ENVIRONMENT DIVISION</code></span></li>
+<li><span style="color:#00FF41"><code>DATA DIVISION</code></span></li>
+<li><span style="color:#00FF41"><code>FILE SECTION</code></span></li>
+<li><span style="color:#00FF41"><code>WORKING-STORAGE SECTION</code></span></li>
+<li><span style="color:#00FF41"><code>PROCEDURE DIVISION</code></span></li>
+<li><span style="color:#00FF41"><code>FILE-CONTROL</code></span></li>
+<li><span style="color:#00FF41"><code>ORGANIZATION IS INDEXED</code></span></li>
+<li><span style="color:#00FF41"><code>ACCESS MODE IS DYNAMIC</code></span></li>
+<li><span style="color:#00FF41"><code>RECORD KEY</code></span></li>
+<li><span style="color:#00FF41"><code>READ</code></span></li>
+<li><span style="color:#00FF41"><code>WRITE</code></span></li>
+<li><span style="color:#00FF41"><code>REWRITE</code></span></li>
+<li><span style="color:#00FF41"><code>DELETE</code></span></li>
+<li><span style="color:#00FF41"><code>START</code></span></li>
+<li><span style="color:#00FF41"><code>READ NEXT RECORD</code></span></li>
+<li><span style="color:#00FF41"><code>PERFORM</code></span></li>
+<li><span style="color:#00FF41"><code>EVALUATE</code></span></li>
+<li><span style="color:#00FF41"><code>IF / ELSE</code></span></li>
+<li><span style="color:#00FF41"><code>FUNCTION CURRENT-DATE</code></span></li>
+<li><span style="color:#00FF41"><code>FILE STATUS</code></span></li>
+</ul>
 
 </div>
 
@@ -442,51 +471,59 @@ O projeto utiliza conceitos importantes da linguagem COBOL:
 
 <div style="color:#00FF41">
 
-### 🟢 Fase 1 — Base funcional
+<h3><span style="color:#00FF41">🟢 Fase 1 — Base funcional</span></h3>
 
-* [x] Estrutura principal COBOL
-* [x] Menu de operações
-* [x] Cadastro de JOB
-* [x] Consulta
-* [x] Alteração
-* [x] Exclusão
-* [x] Execução
-* [x] Return Code
-* [x] Histórico
-* [x] Relatórios
-* [x] Persistência em arquivos indexados
+<ul>
+<li><span style="color:#00FF41">☑ Estrutura principal COBOL</span></li>
+<li><span style="color:#00FF41">☑ Menu de operações</span></li>
+<li><span style="color:#00FF41">☑ Cadastro de JOB</span></li>
+<li><span style="color:#00FF41">☑ Consulta</span></li>
+<li><span style="color:#00FF41">☑ Alteração</span></li>
+<li><span style="color:#00FF41">☑ Exclusão</span></li>
+<li><span style="color:#00FF41">☑ Execução</span></li>
+<li><span style="color:#00FF41">☑ Return Code</span></li>
+<li><span style="color:#00FF41">☑ Histórico</span></li>
+<li><span style="color:#00FF41">☑ Relatórios</span></li>
+<li><span style="color:#00FF41">☑ Persistência em arquivos indexados</span></li>
+</ul>
 
-### 🟢 Fase 2 — Job Control
+<h3><span style="color:#00FF41">🟢 Fase 2 — Job Control</span></h3>
 
-* [ ] Definição de STEPs
-* [ ] JOB com múltiplos STEPs
-* [ ] Controle individual de STEP
-* [ ] Return Code por STEP
-* [ ] Dependências entre etapas
-* [ ] Controle de sequência
-* [ ] Tratamento de falhas
+<ul>
+<li><span style="color:#00FF41">☐ Definição de STEPs</span></li>
+<li><span style="color:#00FF41">☐ JOB com múltiplos STEPs</span></li>
+<li><span style="color:#00FF41">☐ Controle individual de STEP</span></li>
+<li><span style="color:#00FF41">☐ Return Code por STEP</span></li>
+<li><span style="color:#00FF41">☐ Dependências entre etapas</span></li>
+<li><span style="color:#00FF41">☐ Controle de sequência</span></li>
+<li><span style="color:#00FF41">☐ Tratamento de falhas</span></li>
+</ul>
 
-### 🟢 Fase 3 — Monitoring
+<h3><span style="color:#00FF41">🟢 Fase 3 — Monitoring</span></h3>
 
-* [ ] Monitoramento de JOBs
-* [ ] Histórico detalhado
-* [ ] Data/hora de início
-* [ ] Data/hora de término
-* [ ] Tempo de execução
-* [ ] Mensagens de execução
-* [ ] Registro de falhas
-* [ ] Relatórios avançados
+<ul>
+<li><span style="color:#00FF41">☐ Monitoramento de JOBs</span></li>
+<li><span style="color:#00FF41">☐ Histórico detalhado</span></li>
+<li><span style="color:#00FF41">☐ Data/hora de início</span></li>
+<li><span style="color:#00FF41">☐ Data/hora de término</span></li>
+<li><span style="color:#00FF41">☐ Tempo de execução</span></li>
+<li><span style="color:#00FF41">☐ Mensagens de execução</span></li>
+<li><span style="color:#00FF41">☐ Registro de falhas</span></li>
+<li><span style="color:#00FF41">☐ Relatórios avançados</span></li>
+</ul>
 
-### 🟢 Fase 4 — Mainframe
+<h3><span style="color:#00FF41">🟢 Fase 4 — Mainframe</span></h3>
 
-* [ ] Conceitos de processamento Batch
-* [ ] JCL
-* [ ] JOB / EXEC / DD
-* [ ] Return Codes
-* [ ] Condições de execução
-* [ ] Dataset concepts
-* [ ] Adaptação para IBM Z
-* [ ] Testes no TK5 / MVS
+<ul>
+<li><span style="color:#00FF41">☐ Conceitos de processamento Batch</span></li>
+<li><span style="color:#00FF41">☐ JCL</span></li>
+<li><span style="color:#00FF41">☐ JOB / EXEC / DD</span></li>
+<li><span style="color:#00FF41">☐ Return Codes</span></li>
+<li><span style="color:#00FF41">☐ Condições de execução</span></li>
+<li><span style="color:#00FF41">☐ Dataset concepts</span></li>
+<li><span style="color:#00FF41">☐ Adaptação para IBM Z</span></li>
+<li><span style="color:#00FF41">☐ Testes no TK5 / MVS</span></li>
+</ul>
 
 </div>
 
@@ -519,7 +556,7 @@ O projeto utiliza conceitos importantes da linguagem COBOL:
                     IBM Z
 ```
 
-A evolução planejada do projeto parte do desenvolvimento em GnuCOBOL no PC e avança para conceitos de <strong>COBOL Mainframe, JCL, MVS e IBM Z / z/OS</strong>.
+<p><span style="color:#00FF41">A evolução planejada do projeto parte do desenvolvimento em GnuCOBOL no PC e avança para conceitos de <strong>COBOL Mainframe, JCL, MVS e IBM Z / z/OS</strong>.</span></p>
 
 </div>
 
@@ -533,7 +570,7 @@ A evolução planejada do projeto parte do desenvolvimento em GnuCOBOL no PC e a
 
 <div style="color:#00FF41">
 
-O objetivo do projeto é desenvolver uma aplicação prática em COBOL orientada a:
+<p><span style="color:#00FF41">O objetivo do projeto é desenvolver uma aplicação prática em COBOL orientada a:</span></p>
 
 ```text
 COBOL
@@ -548,9 +585,9 @@ COBOL
    └── MAINFRAME
 ```
 
-A primeira implementação em GnuCOBOL funciona como laboratório de desenvolvimento e validação da lógica.
+<p><span style="color:#00FF41">A primeira implementação em GnuCOBOL funciona como laboratório de desenvolvimento e validação da lógica.</span></p>
 
-A evolução planejada aproxima progressivamente o projeto dos conceitos encontrados no ecossistema <strong>IBM Z / z/OS</strong>.
+<p><span style="color:#00FF41">A evolução planejada aproxima progressivamente o projeto dos conceitos encontrados no ecossistema <strong>IBM Z / z/OS</strong>.</span></p>
 
 </div>
 
@@ -637,9 +674,6 @@ Projeto desenvolvido como parte de uma trilha prática de desenvolvimento voltad
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1500&color=00FF41&center=true&vCenter=true&width=800&lines=FROM+COBOL+DEVELOPMENT+TO+MAINFRAME+JOB+CONTROL" alt="From COBOL development to Mainframe Job Control">
 
 </div>
-
-
-
 
 
 <img width="1427" height="833" alt="OPNE 1" src="https://github.com/user-attachments/assets/90ef64c3-3fa1-44d0-986d-505dd2537b49" />
